@@ -1,0 +1,3 @@
+[submodule "libsodium-verifast"]
+	path = libsodium-verifast
+	url = https://github.com/btj/libsodium.git
