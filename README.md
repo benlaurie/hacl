@@ -1,5 +1,11 @@
 # hacl
 
+Experiments in applying formal methods to cryptographic software to provide higher assurance.
+
+Contributions welcome!
+
+## Setup
+
 Run
 
 ```
