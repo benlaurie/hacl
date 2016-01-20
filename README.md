@@ -17,12 +17,12 @@ $ git submodule update
 
 libsodium with some verification by VeriFast.
 
-## tis-ct_OSX.tb2
+## tis-ct.tb2
 
-Pre-packaged [tis-ct](http://trust-in-soft.com/tis-ct/) (constant time verifier) for MacOS X.
+Pre-packaged [tis-ct](http://trust-in-soft.com/tis-ct/) (constant time verifier) for x86-64 MacOS X and x86-64 Linux.
 
 Unpack with
 
-```$ tar xvfy tis-ct_OSX.tb2```
+```$ tar xvfy tis-ct.tb2```
 
 then see the README.
